@@ -1,5 +1,20 @@
 # 💫 About Me:
-# Hey there! 👋 I'm Sonam Dorji<br><br>💻 An aspiring Software Developer passionate about technology, programming, and building things that solve real-world problems.<br><br>I'm continuously exploring the world of software development, learning new technologies, and improving my problem-solving skills. I enjoy understanding how things work behind the scenes, experimenting with different tools, and finding better ways to approach technical challenges.<br><br>### 🚀 What I'm interested in<br>- Software Development & Programming<br>- Cloud Computing & Cloud-Native Technologies<br>- DevOps, Linux & Command-Line Tools<br>- Kubernetes & Containerization<br>- AI-powered Development Tools<br>- Automation and Developer Workflows<br><br>### 🌱 Currently Exploring<br>- Improving my programming and software engineering skills<br>- Understanding modern development workflows<br>- Exploring AI-assisted coding with tools like OpenAI Codex<br>- Learning more about cloud-native infrastructure and technologies<br><br>### 🎯 My Philosophy<br>I believe in learning by building, experimenting, making mistakes, and improving every day.<br><br>I'm here to learn, collaborate, share my progress, and turn ideas into something meaningful.<br><br>**Always curious. Always learning. Always building.** 🚀
+## Hey there! 👋 I'm Sonam Dorji <br><br>💻 An aspiring Software Developer passionate about technology, programming, and building things that solve real-world problems.<br><br>I'm continuously exploring the world of software development, learning new technologies, and improving my problem-solving skills. I enjoy understanding how things work behind the scenes, experimenting with different tools, and finding better ways to approach technical challenges.<br><br>
+### 🚀 What I'm interested in<br>
+- Software Development & Programming<br>
+- Cloud Computing & Cloud-Native Technologies<br> 
+- DevOps, Linux & Command-Line Tools<br>
+- Kubernetes & Containerization<br>
+- AI-powered Development Tools<br>
+- Automation and Developer Workflows<br><br>
+
+### 🌱 Currently Exploring<br>
+- Improving my programming and software engineering skills<br>
+- Understanding modern development workflows<br>
+- Learning more about cloud-native infrastructure and technologies<br><br>
+
+### 🎯 My Philosophy<br>
+I believe in learning by building, experimenting, making mistakes, and improving every day.<br><br>I'm here to learn, collaborate, share my progress, and turn ideas into something meaningful.<br><br>**Always curious. Always learning. Always building.** 🚀
 
 
 ## 🌐 Socials:
